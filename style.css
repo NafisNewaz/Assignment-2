@@ -1,0 +1,56 @@
+
+#bg-color{
+    background-color: #fceae8;
+    
+}
+.fixed-top{
+    display: block;
+}
+.nav-image{
+    width: 50%;
+    padding-left: 15%;
+}
+.orange-color{
+    color:rgba(250, 128, 76, 1);
+}
+.blue-color{
+    color: rgba(54, 57, 88, 1);
+}
+.card-border{
+    border-radius: 20px;
+    border: 0;
+    box-shadow: white;
+}
+
+.img-border-design{
+  border-radius: 20px;
+  background-color: rgba(241, 241, 241, 1);
+}
+.button-design{
+    background: linear-gradient(93.74deg, #6F6CFF -26.3%, #3543BC 84.78%);
+    border-radius: 10px;
+    color: white;
+    padding: 10px 15px;
+    border: 0;
+}
+.product-footer{
+background-color: white;
+border: 0;
+}
+.text-color{
+    color: lightslategray
+}
+.imag-size img{
+width: 200px;
+height: 200px;
+margin: 15px 80px;
+ }
+ 
+.section-height{
+    height: 500px;
+}
+
+.image-text{
+    float: left;
+}
+
